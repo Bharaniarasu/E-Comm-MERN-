@@ -1,0 +1,866 @@
+[
+  {
+    "id": 225,
+    "title": "Slim Fiit",
+    "price": 300,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/R1680AZ_23SP_TR157_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:05.000Z",
+    "updatedAt": "2023-08-14T05:21:00.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 226,
+    "title": "Regular Fit Viscose Printed Short Sleeve Shirt",
+    "price": 274,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/Y2903AZ_23SM_BE509_02_04.jpg"],
+    "creationAt": "2023-08-13T17:43:05.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 227,
+    "title": "Regular Fit Crew Neck Long Sleeve Shirt",
+    "price": 274,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/A6788AX_23SM_WT34_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:05.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 228,
+    "title": "Regular Fit Long Sleeve Linen Look Shirt",
+    "price": 274,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/V2522AZ_23SP_RD44_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:06.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 229,
+    "title": "Oversize Fit Shirt Collar Gabardine Long Sleeve Shirt",
+    "price": 274,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/Y7519AZ_23SP_BN326_03_03.jpg"],
+    "creationAt": "2023-08-13T17:43:06.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 231,
+    "title": "Regular Fit Shirt Collar Linen Blend Short Sleeve Shirt",
+    "price": 274,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/A5548AX_23SM_BG701_02_01.jpg"],
+    "creationAt": "2023-08-13T17:43:07.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 232,
+    "title": "Regular Fit Flap Collar Short Sleeve Shirt",
+    "price": 274,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/A6859AX_23SM_ER99_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:07.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 233,
+    "title": "Cool Regular Fit Pajama Collar Printed Short Sleeve Shirt",
+    "price": 274,
+    "description": "description",
+    "images": ["https://dfcdn.defacto.com.tr/7/Z2919AZ_23SM_WT46_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:08.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 234,
+    "title": "Regular Fit V-Neck Patterned Short Sleeve Crop Shirt",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A6860AX_23SM_OG78_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:08.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 235,
+    "title": "Women Long Sleeve Shirts",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/I8266AZ_23SP_BN348_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:09.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 236,
+    "title": "Traditional Regular Fit Crew Neck Long Sleeve Shirt",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/U2962AZ_23SM_GN690_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:09.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 237,
+    "title": "Jogger Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Z7916AZ_23SP_BK27_01_04.jpg"],
+    "creationAt": "2023-08-13T17:43:09.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 238,
+    "title": "Regular Fit Linen Trousers",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/X4538AZ_23SM_GN797_02_02.jpg"],
+    "creationAt": "2023-08-13T17:43:10.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 239,
+    "title": "Regular Cargo Jogger Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A4171AX_23SM_BG732_02_01.jpg"],
+    "creationAt": "2023-08-13T17:43:10.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 240,
+    "title": "New Regular Fit Chino Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/V0062AZ_23SP_AR168_02_03.jpg"],
+    "creationAt": "2023-08-13T17:43:10.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 241,
+    "title": "Slim Fit Sweatpants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Z5536AZ_23SP_GR210_02_03.jpg"],
+    "creationAt": "2023-08-13T17:43:11.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 242,
+    "title": "Jogger Standard Fit Trousers",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/W8266AZ_23SP_BK27_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:11.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 243,
+    "title": "Regular Cargo Jogger Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Z7995AZ_23SP_BK81_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:12.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 244,
+    "title": "Wide Leg Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A5029AX_23SP_KH433_01_01.jpg"],
+    "creationAt": "2023-08-13T17:43:19.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 245,
+    "title": "Regular Fit Sweatpants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Z6000AZ_23SP_BN207_02_03.jpg"],
+    "creationAt": "2023-08-13T17:43:20.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 246,
+    "title": "Extra Slim Fit Chino Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/R0298AZ_23SP_BG220_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:20.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 247,
+    "title": "Rebeca Slim Fit High Waist Gabardine Trousers",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/M0649AZ_23SM_BG732_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:20.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 248,
+    "title": "90's Wide Leg Jeans",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A3179AX_23SM_WT1_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:21.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 249,
+    "title": "Palazzo Viscose Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Y9960AZ_23SM_BK27_01_01.jpg"],
+    "creationAt": "2023-08-13T17:43:21.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 250,
+    "title": "Cool Parachute Gabardine Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A2281AX_23SP_KH445_01_01.jpg"],
+    "creationAt": "2023-08-13T17:43:22.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 251,
+    "title": "Slim Fit High Waist Pocketed Textured Trousers",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Y4197AZ_23SM_BK81_02_01.jpg"],
+    "creationAt": "2023-08-13T17:43:22.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 252,
+    "title": "Straight Fit Flared Trousers",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A4851AX_23SM_OG146_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:23.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 253,
+    "title": "Mary Straight Fit Boyfriend Pile Jeans",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A0727AX_23SP_NM36_02_02.jpg"],
+    "creationAt": "2023-08-13T17:43:23.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 254,
+    "title": "Straight Fit Cargo Crepe Trousers",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A1153AX_23SM_PN126_02_02.jpg"],
+    "creationAt": "2023-08-13T17:43:23.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 255,
+    "title": "jogger Ankle Length With Pockets Pants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Z2582AZ_23SM_GN1186_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:24.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 256,
+    "title": "Parachute Standard Trousers",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A3161AX_23SM_ER140_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:24.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 257,
+    "title": "Fit NBA Boston Celtics Licensed Oversize Fit Hoodie Undershirt",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A1709AX_23SM_NV176_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:25.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 258,
+    "title": "Oversize Fit Printed Crew Neck Sleeveless Undershirt",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/A2238AX_23SM_BK81_04_01.jpg"],
+    "creationAt": "2023-08-13T17:43:25.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 259,
+    "title": "Loose Fit Printed Crew Neck Undershirt",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Z7067AZ_23HS_BK81_01_01.jpg"],
+    "creationAt": "2023-08-13T17:43:25.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 260,
+    "title": "Fit Regular Fit NFL Las Vegas Raiders Jogger Sweatpants",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/Y4152AZ_22AU_BK81_02_03.jpg"],
+    "creationAt": "2023-08-13T17:43:26.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 261,
+    "title": "Slim Fit Flexible Leg Scuba Diving Fabric Sports Jogger",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/W7394AZ_23SP_ER105_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:26.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 262,
+    "title": "Fit Athlete Tights",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/768/Z0815AZ_23SP_BK81_04_03.jpg"],
+    "creationAt": "2023-08-13T17:43:26.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 263,
+    "title": "Fit Seamless Waist Tights",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/T8379AZ_21SP_BN250_01_02.jpg"],
+    "creationAt": "2023-08-13T17:43:27.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 264,
+    "title": "High Waisted Mini Leggings",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/W8538AZ_22SM_OG311_01_03.jpg"],
+    "creationAt": "2023-08-13T17:43:27.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 265,
+    "title": "High Waisted Ankle Leggings",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://dfcdn.defacto.com.tr/7/X0175AZ_22SP_PR252_02_02.jpg"],
+    "creationAt": "2023-08-13T17:43:28.000Z",
+    "updatedAt": "2023-08-13T23:22:21.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 266,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:28.000Z",
+    "updatedAt": "2023-08-13T17:43:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 267,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:28.000Z",
+    "updatedAt": "2023-08-13T17:43:28.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 268,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:39.000Z",
+    "updatedAt": "2023-08-13T17:43:39.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 269,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:39.000Z",
+    "updatedAt": "2023-08-13T17:43:39.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 270,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:40.000Z",
+    "updatedAt": "2023-08-13T17:43:40.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 272,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:41.000Z",
+    "updatedAt": "2023-08-13T17:43:41.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 274,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:42.000Z",
+    "updatedAt": "2023-08-13T17:43:42.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 275,
+    "title": "New product",
+    "price": 240,
+    "description": "Lorem ipsum input forum",
+    "images": ["https://picsum.photos/id/237/200/300"],
+    "creationAt": "2023-08-13T17:43:42.000Z",
+    "updatedAt": "2023-08-13T17:43:42.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 286,
+    "title": "Iphone",
+    "price": 100,
+    "description": "A description",
+    "images": ["https://placeimg.com/640/480/any"],
+    "creationAt": "2023-08-13T22:21:50.000Z",
+    "updatedAt": "2023-08-13T22:21:50.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 287,
+    "title": "cars ",
+    "price": 120,
+    "description": "A description",
+    "images": ["https://placeimg.com/640/480/any"],
+    "creationAt": "2023-08-13T22:23:40.000Z",
+    "updatedAt": "2023-08-13T22:23:40.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 288,
+    "title": "New Product",
+    "price": 10,
+    "description": "A description",
+    "images": ["https://placeimg.com/640/480/any"],
+    "creationAt": "2023-08-13T22:37:54.000Z",
+    "updatedAt": "2023-08-13T22:37:54.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 289,
+    "title": "Prueba",
+    "price": 10,
+    "description": "A description",
+    "images": ["https://placeimg.com/640/480/any"],
+    "creationAt": "2023-08-14T00:31:26.000Z",
+    "updatedAt": "2023-08-14T00:31:26.000Z",
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=5778",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 293,
+    "title": "Nulla luctus orci sit amet justo porttitor, ac mollis elit iaculis",
+    "price": 9000,
+    "description": "Morbi condimentum dictum neque, nec placerat massa mattis in. Ut eget sem quis nulla semper luctus sit amet sit amet mauris. Vestibulum ut neque ut felis rutrum molestie id ut enim. Donec dolor ex, pulvinar et vulputate sed, semper at elit. Suspendisse potenti. Donec vehicula, risus at rutrum pulvinar, leo ipsum porta urna, id fermentum velit velit in metus. Sed scelerisque sapien ac est dignissim luctus. Aliquam non elit scelerisque, sagittis dolor sed, faucibus tortor. Morbi varius augue id tellus cursus feugiat. Praesent sodales ante quis feugiat efficitur. Suspendisse rutrum non est ac laoreet. Duis cursus lacus ac fringilla egestas. Vivamus a dignissim ipsum, nec venenatis tortor. Praesent a pretium ante, eu dapibus augue.",
+    "images": ["https://source.unsplash.com/random/300x200"],
+    "creationAt": "2023-08-14T02:14:18.000Z",
+    "updatedAt": "2023-08-14T02:14:18.000Z",
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://picsum.photos/640/640?r=5778",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  },
+  {
+    "id": 296,
+    "title": "Telas",
+    "price": 11,
+    "description": "Muchas telas",
+    "images": ["m-8.png"],
+    "creationAt": "2023-08-14T03:38:37.000Z",
+    "updatedAt": "2023-08-14T03:38:37.000Z",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "image": "https://picsum.photos/640/640?r=6374",
+      "creationAt": "2023-08-13T17:29:07.000Z",
+      "updatedAt": "2023-08-13T17:29:07.000Z"
+    }
+  }
+]
