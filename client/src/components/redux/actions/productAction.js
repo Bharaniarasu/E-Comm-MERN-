@@ -13,7 +13,7 @@ export const getProducts =
   (query, price, category, rating, pageNo) => async (dispatch) => {
     try {
       dispatch(productsRequest({ loading: true }));
-      let uri = `http://localhost:8000/api/v1/products?page=${pageNo}`;
+      let uri = `${process.env.REACT_APP_API_URL}/api/v1/products?page=${pageNo}`;
       if (query) {
         uri += `&keyword=${query}`;
       }
@@ -38,7 +38,7 @@ export const getProduct = (id) => async (dispatch) => {
   try {
     dispatch(productRequest({ loading: true }));
     const { data } = await axios.get(
-      `http://localhost:8000/api/v1/product/${id}`
+      `${process.env.REACT_APP_API_URL}/api/v1/product/${id}`
     );
 
     dispatch(productSuccess(data));

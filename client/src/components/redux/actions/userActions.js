@@ -27,7 +27,7 @@ import {
 } from "../slices/authSlice";
 //Login action controller
 export const login = (email, password) => async (dispatch) => {
-  let uri = "/api/v1/login";
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/login`;
   try {
     dispatch(loginRequest());
     const { data } = await axios.post(uri, { email, password });
@@ -44,7 +44,7 @@ export const clearAuthError = (dispatch) => {
 //Register new User controller
 export const register = (userData) => async (dispatch) => {
   //console.log(userData);
-  let uri = "/api/v1/register";
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/register`;
   try {
     dispatch(registerRequest());
     //To accept  avatar images
@@ -63,7 +63,7 @@ export const register = (userData) => async (dispatch) => {
 
 //Load Logged in user Data
 export const loadUser = async (dispatch) => {
-  let uri = "/api/v1/myprofile";
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/myprofile`;
   try {
     dispatch(loadUserRequest());
 
@@ -80,7 +80,7 @@ export const loadUser = async (dispatch) => {
 
 //log out Action Controller
 export const logout = async (dispatch) => {
-  let uri = "/api/v1/logout";
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/logout`;
   try {
     await axios.get(uri);
     dispatch(logoutSuccess());
@@ -92,7 +92,7 @@ export const logout = async (dispatch) => {
 //Update  User controller
 export const updateProfile = (userData) => async (dispatch) => {
   //console.log(userData);
-  let uri = "/api/v1/myprofile/updateprofile";
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/myprofile/updateprofile`;
   try {
     dispatch(updateProfileRequest());
     //To accept  avatar images
@@ -112,7 +112,7 @@ export const updateProfile = (userData) => async (dispatch) => {
 //Update  User password
 export const updatePassword = (formData) => async (dispatch) => {
   //console.log(formData);
-  let uri = "/api/v1/myprofile/updatepassword";
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/myprofile/updatepassword`;
   const config = {
     headers: {
       "Content-Type": "application/json",
@@ -132,7 +132,7 @@ export const updatePassword = (formData) => async (dispatch) => {
 //  Forgot Password Action
 export const forgotPassword = (formData) => async (dispatch) => {
   //console.log(formData);
-  let uri = "/api/v1/forgot/password";
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/forgot/password`;
   const config = {
     headers: {
       "Content-Type": "application/json",
@@ -151,7 +151,7 @@ export const forgotPassword = (formData) => async (dispatch) => {
 //Reset  password
 export const resetPassword = (formData, token) => async (dispatch) => {
   //console.log(formData);
-  let uri = `/api/v1/reset/password/${token}`;
+  let uri = `${process.env.REACT_APP_API_URL}/api/v1/reset/password/${token}`;
   const config = {
     headers: {
       "Content-Type": "application/json",

@@ -9,7 +9,7 @@ export const CartAction = (id, qty) => async (dispatch) => {
   try {
     dispatch(addCartItemRequest());
 
-    const { data } = await axios.get(`/api/v1/product/${id}`);
+    const { data } = await axios.get(`${process.env.REACT_APP_API_URL}/api/v1/product/${id}`);
     //console.log(data);
 
     dispatch(
