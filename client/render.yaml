@@ -1,0 +1,8 @@
+routes:
+  - match: "^/.*"
+    status: 200
+    forceRedirect: false
+    appendPath: true
+    destination:
+      type: "file"
+      content: "public/index.html"
