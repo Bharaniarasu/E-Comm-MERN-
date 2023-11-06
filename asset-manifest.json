@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/E-Comm-MERN-/client/static/css/main.c0bb00bd.css",
+    "main.js": "/E-Comm-MERN-/client/static/js/main.f78415bb.js",
+    "static/media/TN_CART.png": "/E-Comm-MERN-/client/static/media/TN_CART.d360164ab78bfcae82e4.png",
+    "index.html": "/E-Comm-MERN-/client/index.html",
+    "main.c0bb00bd.css.map": "/E-Comm-MERN-/client/static/css/main.c0bb00bd.css.map",
+    "main.f78415bb.js.map": "/E-Comm-MERN-/client/static/js/main.f78415bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0bb00bd.css",
+    "static/js/main.f78415bb.js"
+  ]
+}
